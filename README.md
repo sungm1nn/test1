@@ -1,3 +1,2 @@
-# test1
-forTest
-2018.10.11 
+강화학습 테스트
+gym cart pole
